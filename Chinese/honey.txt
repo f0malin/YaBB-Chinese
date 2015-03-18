@@ -1,5 +1,5 @@
-Your Postal (Zip) Code?
-Your Location?
-Your Occupation?
-Who referred you?
-Your pet's name?
+你的邮政编码？
+你住在什么地方？
+你的职业是什么？
+你的名字？
+你宠物的名字？
