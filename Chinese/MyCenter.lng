@@ -49,7 +49,7 @@ $mycenterlngver = 'YaBB 2.6.11 $Revision: 1611 $';
 'all' => '全部',
 'justthis' => '仅这个文件夹',
 'byuser' => '通过名字',
-'desc' => '搜索我的 PMs',
+'desc' => '搜索我的私信',
 'search' => '搜索',
 );
 
